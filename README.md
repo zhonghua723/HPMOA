@@ -1,1 +1,1 @@
-# Human Placental Multi-Omics Landscape
+# Human Placental Multi-Omics Atlas
